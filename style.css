@@ -59,11 +59,15 @@ body {
 }
 .sewa .card {
   min-width: 80%;
-  min-height: 300px;
+  min-height: 326px;
 }
 .sewa .card .card-body {
   background-color: #0d28a6;
   border-radius: 5px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
 }
 .sewa .card .card-body .card-title {
   color: white;
